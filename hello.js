@@ -4,6 +4,6 @@ const a=()=>{
 const b=()=>{
     console.log("Hello from func B");
 }
-const c=()=>{
+const ddd=()=>{
     console.log("Hello from func C");
 }
