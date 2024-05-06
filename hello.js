@@ -7,3 +7,6 @@ const bbbbb=()=>{
 const ccccccc=()=>{
     console.log("Hello from func C");
 }
+const aaaaaaa=()=>{
+    console.log("Hello World");
+}
